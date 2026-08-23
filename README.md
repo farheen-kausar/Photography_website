@@ -1,4 +1,4 @@
-Photography Website
+Photography Website:
 
 A responsive photography portfolio website built using HTML and CSS.
 
