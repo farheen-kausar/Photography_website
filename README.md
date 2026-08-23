@@ -1,13 +1,21 @@
-Photography Website:
+# Photography Website
 
-A responsive photography portfolio website built using HTML and CSS.
+A simple photography portfolio website built using HTML, CSS, and JavaScript.
 
-Features:
-- Hero section
-- Photography gallery
-- Responsive design
-- Modern UI
+## Technologies
 
-Technologies Used:
-- HTML5
-- CSS3
+* HTML
+* CSS
+* JavaScript
+
+## Features
+
+* Photography gallery
+* Responsive design
+* Interactive image preview
+* Navigation menu
+
+## Author
+
+Farheen Kausar
+
